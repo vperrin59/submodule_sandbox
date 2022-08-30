@@ -1,3 +1,6 @@
 [submodule "vunit"]
 	path = vunit
 	url = https://github.com/VUnit/vunit.git
+[submodule "verible"]
+	path = verible
+	url = https://github.com/chipsalliance/verible.git
